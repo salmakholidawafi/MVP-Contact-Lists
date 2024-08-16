@@ -1,0 +1,18 @@
+{
+  "contacts": [
+    {
+      "name": "salmaa",
+      "email": "salma@gmail.com",
+      "phonenumber": "087256525178",
+      "category": "family",
+      "id": "1"
+    },
+    {
+      "id": "5d00",
+      "name": "fdsg",
+      "email": "njdwn@jd.com",
+      "phonenumber": "0879555",
+      "category": "friend"
+    }
+  ]
+}
